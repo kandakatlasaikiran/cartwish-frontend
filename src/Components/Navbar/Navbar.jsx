@@ -2,12 +2,12 @@ import React, { useContext, useEffect, useState } from "react";
 
 import "./Navbar.css";
 import LinkWithIcon from "./LinkWithIcon";
-import Rocket from "../../Assets/rocket.png";
-import star from "../../Assets/glowing-star.png";
-import idButton from "../../Assets/id-button.png";
-import memo from "../../Assets/memo.png";
-import order from "../../Assets/package.png";
-import lock from "../../Assets/locked.png";
+import Rocket from "../../assets/rocket.png";
+import star from "../../assets/glowing-star.png";
+import idButton from "../../assets/id-button.png";
+import memo from "../../assets/memo.png";
+import order from "../../assets/package.png";
+import lock from "../../assets/locked.png";
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import UserContext from "../../contexts/UserContext";
 import CartContext from "../../contexts/CartContext";
