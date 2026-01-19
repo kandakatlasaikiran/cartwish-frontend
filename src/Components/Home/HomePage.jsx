@@ -1,7 +1,7 @@
 import React from "react";
 
-import iphone from "../../Assets/iphone-14-pro.webp";
-import mac from "../../Assets/mac-system-cut.jfif";
+import iphone from "../../assets/iphone-14-pro.webp";
+import mac from "../../assets/mac-system-cut.jfif";
 import HeroSection from "./HeroSection";
 import FeaturedProducts from "./FeaturedProducts";
 

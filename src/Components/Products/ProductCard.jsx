@@ -2,8 +2,8 @@ import React, { useContext, memo } from "react";
 
 import "./ProductCard.css";
 import config from "../../config.json";
-import star from "../../Assets/white-star.png";
-import basket from "../../Assets/basket.png";
+import star from "../../assets/white-star.png";
+import basket from "../../assets/basket.png";
 import { NavLink } from "react-router-dom";
 import CartContext from "../../contexts/CartContext";
 import UserContext from "../../contexts/UserContext";
