@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./LinkWithIcon.css";
-import Rocket from "../../Assets/rocket.png";
 import { NavLink } from "react-router-dom";
 
 const LinkWithIcon = ({ title, link, emoji, sidebar }) => {
